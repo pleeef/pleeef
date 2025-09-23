@@ -13,8 +13,11 @@ A Telegram bot I developed to prepare for the **Dutch B1 exam**. This project hi
 ### Skills
 
 **Languages:** Python, SQL
+
 **Libraries:** Pandas, Scikit-learn, Polars, TensorFlow
+
 **Tools:** Docker, Git, Google Cloud
+
 **Visualization:** Seaborn, Plotly, Tableau, Looker Studio
 
 ---
