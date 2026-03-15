@@ -1,24 +1,41 @@
 ### Hi there, I'm Olga! 👋
 
-I'm a Data Scientist passionate about transforming complex data into clear and useful solutions. I'm always growing my skills, with a current focus on **optimizing dynamic pricing algorithms** at work and **developing a Telegram bot for learning Dutch** in my free time.
+I'm a **Data & Business Analyst** passionate about turning complex data into clear insights and practical tools.
+
+My work focuses on **SQL analytics, business metrics, and data visualization**, with experience in pricing analytics, dashboard development, and data-driven decision making.
 
 ---
 
-### My Project: 🤖 Telegram Dutch Bot
+### Featured Projects
 
-A Telegram bot I developed to prepare for the **Dutch B1 exam**. This project highlights my skills in **bot development and API integration**.
+📊 **E-commerce Business Analytics Dashboard**  
+Business analytics project using **BigQuery, SQL, Looker Studio and Python**.  
+Includes revenue analysis, cohort retention, product performance, and conversion funnel.
+
+📈 **Job Search Analytics Dashboard**  
+Personal analytics project analyzing job application performance and response rates using **Python and Plotly**.
+
+🤖 **Telegram Dutch Learning Bot**  
+A Telegram bot designed to help prepare for the **Dutch B1 exam**, demonstrating **API integration and bot development**.
 
 ---
 
 ### Skills
 
-**Languages:** Python, SQL
+**Languages:**  
+Python, SQL
 
-**Libraries:** Pandas, Scikit-learn, Polars, TensorFlow
+**Data Analysis:**  
+Pandas, Polars
 
-**Tools:** Docker, Git, Google Cloud
+**Visualization:**  
+Plotly, Looker Studio
 
-**Visualization:** Seaborn, Plotly, Tableau, Looker Studio
+**Data Platforms:**  
+BigQuery, Google Cloud
+
+**Tools:**  
+Git, Docker
 
 ---
 
